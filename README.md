@@ -1,1 +1,1 @@
-Roman Numerals Kata
+Palindrome Kata
